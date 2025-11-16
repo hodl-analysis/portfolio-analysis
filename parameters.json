@@ -1,0 +1,8 @@
+{
+    "initial_price_usd" : 94447,
+    "smash_buy_capital_usd" : 100000,
+    "cagr" : 0.25,
+    "monthly_dca_usd" : 600,
+    "total_years" : 12,
+    "sensitivity_range" : 25
+}
