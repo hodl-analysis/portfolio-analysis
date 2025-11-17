@@ -78,8 +78,8 @@
 
 ---
 
-## 6. References / Notes
+## 6. Notes
 
-- Source of CAGR assumption: e.g., historical BTC growth rates.  
+- Source of CAGR assumption: colloquial base BTC CAGR.  
 - Assumes monthly compounding and no transaction fees.  
 
